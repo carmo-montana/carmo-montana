@@ -4,9 +4,9 @@ DESENVOLVEDOR FULLSTACK | FOCO EM BACKEND (NODE.JS, TYPESCRIPT, POSTGRESQL) E FR
 
 #
 
-### O SENHO CARMO – Criador do Dominion 7
+### Pedro oliveira do carmo – Criador do Dominion 7
 
-Sou o fundador e criador do Dominion 7, um projeto inovador que une tecnologia, criatividade e segurança digital para explorar novas formas de engajamento online. Minha experiência abrange desenvolvimento fullstack, segurança da informação e estratégias de marketing digital.
+O Sr. Carmo o fundador e criador do Dominion 7, um projeto inovador que une tecnologia, criatividade e segurança digital para explorar novas formas de engajamento online. Minha experiência abrange desenvolvimento fullstack, segurança da informação e estratégias de marketing digital.
 
 Atualmente, estou focado em aprimorar soluções digitais que combinam interatividade, narrativa imersiva e engenharia de software avançada. Tenho conhecimento em desenvolvimento de APIs, bancos de dados e sistemas web escaláveis, aplicando as melhores práticas de autenticação e segurança.
 

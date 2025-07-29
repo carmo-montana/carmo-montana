@@ -12,18 +12,18 @@
 
 <strong>Especialização: <span style="color: #bbb">Desenvolvedor FullStack | Arquitetura de Redes Neurais | Criptografia Quântica.</span></strong>
 
-<strong>Como a Dark Web Me Inspirou a Criar e Transformar Sonhos em Código. <a src="https://dominion7.netlify.app/pages/recursos/palestra">Ler mais...</a></strong>
+<strong>Como a Dark Web Me Inspirou a Criar e Transformar Sonhos em Código. <a href="https://dominion7.netlify.app/pages/recursos/palestra">Ler mais...</a></strong>
 
 <strong>Envolvido desde: <span style="color: #bbb">A criação da Irmandade.</span></strong>  
 
-<strong>Página web: <a src="https://dominion7.netlify.app/">Dominion 7</a></strong>
+<strong>Página web: <a href="https://dominion7.netlify.app/">Dominion 7</a></strong>
 
-<strong>Página web:</strong><a src="https://dominion7.netlify.app/pages/arquivo/">Irmandade das sombras.</a>
+<strong>Página web:</strong><a href="https://dominion7.netlify.app/pages/arquivo/">Irmandade das sombras.</a>
 
-<strong>Página web: <a src="https://radio-neblina.vercel.app/">NEBLINA FM - VIAJE SEM SAIR DO LUGAR</a></strong>
+<strong>Página web: <a href="https://radio-neblina.vercel.app/">NEBLINA FM - VIAJE SEM SAIR DO LUGAR</a></strong>
 <strong>A rádio neblina FM está em processo de criação, dá uma olhadinha e viaja na música.</strong> 
 
-<strong>Chave PGP: <a src="https://dominion7.netlify.app/pages/capangas/79%2032%20102%2097%20110%20116%2097%20115%20109%2097.html">está aqui.</a></strong>
+<strong>Chave PGP: <a href="https://dominion7.netlify.app/pages/capangas/79%2032%20102%2097%20110%20116%2097%20115%20109%2097.html">está aqui.</a></strong>
 
 </div>
 

@@ -18,7 +18,7 @@
 
 <strong>Página web: <a src="https://dominion7.netlify.app/">Dominion 7</a></strong>
 
-<strong>Página web: <a src="https://dominion7.netlify.app/pages/arquivo/">Irmandade das sombras.</a></strong>
+<strong>Página web:</strong><a src="https://dominion7.netlify.app/pages/arquivo/">Irmandade das sombras.</a>
 
 <strong>Página web: <a src="https://radio-neblina.vercel.app/">NEBLINA FM - VIAJE SEM SAIR DO LUGAR</a></strong>
 <strong>A rádio neblina FM está em processo de criação, dá uma olhadinha e viaja na música.</strong> 

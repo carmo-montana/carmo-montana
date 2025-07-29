@@ -1,18 +1,34 @@
 ## BEM-VINDO! PEREGRINO.
 ## SOU PEDRO OLIVEIRA DO CARMO.
-DESENVOLVEDOR FULLSTACK | FOCO EM BACKEND (NODE.JS, TYPESCRIPT, POSTGRESQL) E FRONTEND (HTML5, CSS3, JAVASCRIPT, NEXT.JS).
+<pre style="background: linear-gradient(110deg, #000 50%, rgb(49, 89, 98) 100%); color: #f8f8f2; padding: 16px; border-radius: 8px; font-family: inherit; ">
 
-#
+<div style="
+    width: 100px;
+    height: 100px;
+    object-fit: cover;">
+<img src="https://dominion7.netlify.app/assets/image/Copia.jpg">
+</div>
 
-### Pedro oliveira do carmo – Criador do Dominion 7
+<strong>Codinome: <span style="color: #bbb">O Rapaz da boina preta.</span></strong>
 
-O Sr. Carmo o fundador e criador do Dominion 7, um projeto inovador que une tecnologia, criatividade e segurança digital para explorar novas formas de engajamento online. Minha experiência abrange desenvolvimento fullstack, segurança da informação e estratégias de marketing digital.
+<strong>Superpoderes: <span style="color: #bbb">Chefe de cozinha, eu ainda vou ter o meu restaurante!</span></strong> 
 
-Atualmente, estou focado em aprimorar soluções digitais que combinam interatividade, narrativa imersiva e engenharia de software avançada. Tenho conhecimento em desenvolvimento de APIs, bancos de dados e sistemas web escaláveis, aplicando as melhores práticas de autenticação e segurança.
+<strong>Especialização: <span style="color: #bbb">Desenvolvedor FullStack | Arquitetura de Redes Neurais | Criptografia Quântica.</span></strong>
 
-Além do Dominion 7, estou com o novo projeto de criar o "MindSync" é um repositório colaborativo para ideias, onde conceitos são versionados, discutidos e interligados de forma dinâmica. Pense nele como um "GitHub para ideias"!. Minha abordagem combina tecnologia com visão estratégica, garantindo que cada projeto seja eficiente, seguro e inovador.
+<strong>Como a Dark Web Me Inspirou a Criar e Transformar Sonhos em Código. <a src="https://dominion7.netlify.app/pages/recursos/palestra">Ler mais...</a></strong>
 
-Meu objetivo é conectar tecnologia e criatividade para criar experiências digitais impactantes. Futuramente quero falar publicamente sobre desenvolvimento web, segurança da informação e inovação, sempre buscando novas formas de conectar pessoas e ideias.
+<strong>Envolvido desde: <span style="color: #bbb">A criação da Irmandade.</span></strong>  
+
+<strong>Página web: <a src="https://dominion7.netlify.app/">Dominion 7</a></strong>
+
+<strong>Página web: <a src="https://dominion7.netlify.app/pages/arquivo/">Irmandade das sombras.</a></strong>
+
+<strong>Página web: <a src="https://radio-neblina.vercel.app/">NEBLINA FM - VIAJE SEM SAIR DO LUGAR</a></strong>
+<strong>A rádio neblina FM está em processo de criação, dá uma olhadinha e viaja na música.</strong> 
+
+<strong>Chave PGP: <a src="https://dominion7.netlify.app/pages/capangas/79%2032%20102%2097%20110%20116%2097%20115%20109%2097.html">está aqui.</a></strong>
+
+</pre>
 
 #
 

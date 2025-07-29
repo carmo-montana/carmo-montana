@@ -1,6 +1,5 @@
 ## BEM-VINDO! PEREGRINO.
-## SOU PEDRO OLIVEIRA DO CARMO.
-<pre style="background: linear-gradient(110deg, #000 50%, rgb(49, 89, 98) 100%); color: #f8f8f2; padding: 16px; border-radius: 8px; font-family: inherit; ">
+<div style="background: linear-gradient(110deg, #000 50%, rgb(49, 89, 98) 100%); color: #f8f8f2; padding: 16px; border-radius: 8px; font-family: inherit; ">
 
 <div style="
     width: 100px;
@@ -28,7 +27,7 @@
 
 <strong>Chave PGP: <a src="https://dominion7.netlify.app/pages/capangas/79%2032%20102%2097%20110%20116%2097%20115%20109%2097.html">está aqui.</a></strong>
 
-</pre>
+</div>
 
 #
 

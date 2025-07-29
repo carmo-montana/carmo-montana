@@ -1,11 +1,9 @@
 ## BEM-VINDO! PEREGRINO.
 <div style="background: linear-gradient(110deg, #000 50%, rgb(49, 89, 98) 100%); color: #f8f8f2; padding: 16px; border-radius: 8px; font-family: inherit; ">
 
-<div style="
-    width: 100px;
-    height: 100px;
-    object-fit: cover;">
-<img src="https://dominion7.netlify.app/assets/image/Copia.jpg">
+<div>
+<img align="center" alt="Carmo-linux" height="80" width="80" src="https://dominion7.netlify.app/assets/image/Copia.jpg"/>
+
 </div>
 
 <strong>Codinome: <span style="color: #bbb">O Rapaz da boina preta.</span></strong>

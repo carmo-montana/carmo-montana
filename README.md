@@ -1,11 +1,6 @@
 ## BEM-VINDO! PEREGRINO.
 <div style="background: linear-gradient(110deg, #000 50%, rgb(49, 89, 98) 100%); color: #f8f8f2; padding: 16px; border-radius: 8px; font-family: inherit; ">
 
-<div>
-<img align="center" alt="Carmo-linux" height="80" width="80" src="https://dominion7.netlify.app/assets/image/Copia.jpg"/>
-
-</div>
-
 <strong>Codinome: <span style="color: #bbb">O Rapaz da boina preta.</span></strong>
 
 <strong>Superpoderes: <span style="color: #bbb">Chefe de cozinha, eu ainda vou ter o meu restaurante!</span></strong> 
